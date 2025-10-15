@@ -19,8 +19,8 @@ To write a python program to implement multivariate linear regression and predic
 ```
 ## Program:
 ```python
-NAME: THEJASHREE S
-REGNO: 212224240175
+NAME:A.B.Gnana pragathika
+REGNO:25018821 
 
 import pandas as pd
 from sklearn import linear_model
